@@ -1,4 +1,4 @@
-# ▶️ Pagina de Login
+# ▶️ Página de Login
 
 Pagina responsiva utilizando somente HTML e CSS, explorando Form, Input e Label.
 
